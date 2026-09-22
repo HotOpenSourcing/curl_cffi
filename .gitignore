@@ -27,3 +27,5 @@ include/
 docs/_build/
 .claude
 uv.lock
+config.bat
+node_modules
